@@ -19,3 +19,5 @@ exam_key.pub
 
 # VS Code
 .vscode/
+terraform.tfvars
+.terraform.lock.hcl
